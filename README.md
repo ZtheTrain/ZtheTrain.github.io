@@ -1,4 +1,4 @@
-## ZtheTrain.github.io
+# ZtheTrain.github.io
 
 A website to showcase the projects I am creating for the 2025 Lede Program for Data Journalism.
 
